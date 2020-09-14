@@ -48,13 +48,13 @@ Given this dataset, I performed data exploration, data cleaning and analysis and
 ## Project Deliverable
 Deliverable is a python notebook that contains my solution:
 
-Notebook name: Hilton International Hotels Booking Visualisations.ipynb
+* Notebook name: Hilton International Hotels Booking Visualisations.ipynb
 
 Dataset Overview:
 This data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things.
 
-Dataset name: hotel_bookings.csv
-Dataset Download Link: https://bit.ly/2WvQbhJ
+* Dataset name: hotel_bookings.csv
+* Dataset Download Link: https://bit.ly/2WvQbhJ
 
 [Back To The Top](#Hilton-International-Hotels-Booking-Visualisations)
 
