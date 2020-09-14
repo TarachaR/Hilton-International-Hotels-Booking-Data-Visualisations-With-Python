@@ -10,7 +10,7 @@
 ---
 
 ### Table of Contents
-You're sections headers will be used to reference location of destination.
+Sections headers used to reference locations of each destination:
 
 - [External Data Source Validation](#external-data-source-validation)
 - [Understanding The Context](#understanding-the-context)
