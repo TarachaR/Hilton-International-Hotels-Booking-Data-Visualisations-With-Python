@@ -56,7 +56,7 @@ This data set contains booking information for a city hotel and a resort hotel, 
 Dataset name: hotel_bookings.csv
 Dataset Download Link: https://bit.ly/2WvQbhJ
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#Hilton-International-Hotels-Booking-Visualisations)
 
 ---
 
@@ -79,6 +79,10 @@ As a start while performing data analysis, I derived the following questions fro
 6. How long do most people stay in hotels?
 7. Which was the most booked accommodation type (Single, Couple, Family)?
 
+[Back To The Top](#Hilton-International-Hotels-Booking-Visualisations)
+
+---
+
 ## Summary Of Findings
 
 Below are some of the findings derived from the dataset and visually represented:
@@ -95,7 +99,7 @@ Below are some of the findings derived from the dataset and visually represented
 #### Bar Chart Showing the Percentage Booking Per Year By Hotel(City/Resort)
 ![percentage_booking_per_year_by_hotel](https://user-images.githubusercontent.com/67068918/93030324-cdcc5080-f62a-11ea-95c5-ef852e6f1d55.png)
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#Hilton-International-Hotels-Booking-Visualisations)
 
 ---
 
@@ -115,7 +119,7 @@ From the above analysis, below are our recommendations:
 
 * As noted most bookings are made by couples. The hotel may introduce more family friendly services and activities e.g a playground for children may increase the bookings made by a family.
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#Hilton-International-Hotels-Booking-Visualisations)
 
 ---
 
@@ -124,5 +128,5 @@ From the above analysis, below are our recommendations:
 - Twitter - [blank]
 - Website - [blank]
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#Hilton-International-Hotels-Booking-Visualisations)
 
