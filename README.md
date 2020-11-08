@@ -125,8 +125,8 @@ From the above analysis, below are our recommendations:
 
 ## Author Information
 
-- Twitter - [blank]
-- Website - [blank]
+- Twitter - https://twitter.com/Vycellous_Drum
+- Website - https://richardtaracha.glitch.me/
 
 [Back To The Top](#Hilton-International-Hotels-Booking-Visualisations)
 
